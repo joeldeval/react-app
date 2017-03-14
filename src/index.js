@@ -12,12 +12,13 @@ import 'bootstrap/dist/css/bootstrap-theme.css'
 import 'bootstrap-social/bootstrap-social.css'
 import 'bootstrap-social/assets/css/font-awesome.css'
 
+
 firebase.initializeApp({
-    apiKey: "AIzaSyAwmhWx1M-vVbTySBOsvbEu0Z1JFN6GgDY",
-    authDomain: "gram-56ba4.firebaseapp.com",
-    databaseURL: "https://gram-56ba4.firebaseio.com",
-    storageBucket: "gram-56ba4.appspot.com",
-    messagingSenderId: "927189741449"
+    apiKey: "APIKEYINYURAPPFIREBASE",
+    authDomain: "app.firebaseapp.com",
+    databaseURL: "https://app.firebaseio.com",
+    storageBucket: "app.appspot.com",
+    messagingSenderId: "IDAPPIREBASE"
 });
 
 ReactDOM.render(
